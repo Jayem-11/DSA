@@ -10,7 +10,7 @@ class Graph:
         self.gdict[vertex].append(edge)
 
 
-    def bfs(self, vertex):
+    def bfs(self, vertex): 
         visited = [vertex]
         queue = [vertex]
         while queue:
