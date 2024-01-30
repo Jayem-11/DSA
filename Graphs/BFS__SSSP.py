@@ -26,11 +26,11 @@ class Graph:
 customDict = {
     "a": ["b" , "c"],
     "b": ["d" , "g"],
-    "c": ["d" , "e"],
+    "c": ["d" , "f"],
     "d": ["f"],
     "e": ["f"],
     "g": ["f"],
 }
 
 graph = Graph(customDict)
-print(graph.bfs("a", "f"))
+print(graph.bfs("a", "g"))
