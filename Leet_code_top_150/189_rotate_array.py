@@ -7,5 +7,5 @@ def rotate1(nums, k):
             else:
                 nums[i] = nums[i-1]
 
-def rotate2(self,nums, k):
+def rotate2(nums, k):
         nums[:] = nums[-(k % len(nums)):] + nums[:-(k % len(nums))]
