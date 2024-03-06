@@ -1,0 +1,6 @@
+leetcode problems that i havent understood:
+
+15
+68
+30
+73
