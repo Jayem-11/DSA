@@ -6,7 +6,7 @@ class Solution(object):
             nums1[index] = i
             index +=1
         nums1.sort()
-        
+         
 
 # sol 2
 class Solution(object):
