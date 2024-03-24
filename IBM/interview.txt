@@ -1,0 +1,5 @@
+1. convert string to dictionary and find keys whose values are not similar. eval() function converts string to dictionary.
+2. You are given an integer array, whereby, each value in the array has a associated counter initialized to zero. 
+   If the value of the left neighbour of a number in the array is less, add to the associated counter the absolute difference of the number and the left neightbour
+   If the value of the left neighbour of a number in the array is greater, subtract to the associated counter the absolute difference of the number and the left neightbour
+   return the arrray containing the counter of each number in the array. 
