@@ -6,3 +6,4 @@ leetcode problems that i havent understood:
 73
 273
 289
+222
