@@ -12,4 +12,4 @@ class Solution(object):
             globMax = max(globMax, curMax)
             globMin = min(globMin, curMin)
 
-    	return max(globMax, total - globMin) if globMax > 0 else globMax
+        return max(globMax, total - globMin) if globMax > 0 else globMax
