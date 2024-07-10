@@ -10,3 +10,4 @@ leetcode problems that i havent understood:
 918
 190
 Heaps
+Bit manipulation
